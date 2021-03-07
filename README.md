@@ -1,1 +1,1 @@
-# WooCommerce-Apple-TV
+# WooCommerce for Apple TV
